@@ -39,7 +39,7 @@ while True:
       "key": f"{genString(43)}=",
       "install_id": install_id,
       "fcm_token": f"{install_id}:APA91b{genString(134)}",
-      "referrer": WARP_CLIENT_ID,
+      "referrer": 0e71fae8-0b82-44ae-af35-5da1db11ecb3,
       "warp_enabled": False,
       "tos": f"{datetime.now().isoformat()[:-3]}+02:00",
       "type": "Android",
